@@ -1,4 +1,3 @@
-wrap:space
 # Writing code
 
 Writing code to parse an XML file - a journey
